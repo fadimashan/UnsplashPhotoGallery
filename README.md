@@ -1,1 +1,1 @@
-# UnsplashPhotoGallery
+# PhotoGalleryAndroid
